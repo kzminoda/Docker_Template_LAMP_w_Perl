@@ -7,7 +7,7 @@
 ```
 $ cd
 $ git clone https://github.com/kzminoda/Docker_Template_LAMP_with_Perl.git
-$ cd Docker_Template_LAMP
+$ cd Docker_Template_LAMP_w_Perl
 ```
 4. Put your wp codes to app dir (You need to change the wp-config.php. *DB_HOST sets 'mysql')
 5. Input the following commands
