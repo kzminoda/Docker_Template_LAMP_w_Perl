@@ -1,4 +1,4 @@
-# Docker_Template_LAMP
+# Docker_Template_LAMP_w_Perl
 
 ## [How to set up]
 1. Activate Docker for Mac/Windows (or Docker Toolbox)
