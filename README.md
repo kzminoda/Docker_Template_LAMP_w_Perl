@@ -1,4 +1,4 @@
-# Docker_Template_LAMP
+# Docker_Template_LAMP_w_Perl
 
 ## [How to set up]
 1. Activate Docker for Mac/Windows (or Docker Toolbox)
@@ -6,7 +6,7 @@
 3. Input the following commands
 ```
 $ cd
-$ git clone https://github.com/kzminoda/Docker_Template_LAMP_with_Perl.git
+$ git clone https://github.com/kzminoda/Docker_Template_LAMP_w_Perl.git
 $ cd Docker_Template_LAMP
 ```
 4. Put your wp codes to app dir (You need to change the wp-config.php. *DB_HOST sets 'mysql')
