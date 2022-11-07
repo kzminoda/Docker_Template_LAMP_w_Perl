@@ -1,5 +1,4 @@
 FROM php:8.0-apache
-LABEL maintainer acco
 
 COPY ./php.ini /usr/local/etc/php
 COPY ./apache2.conf /etc/apache2/conf-enabled
